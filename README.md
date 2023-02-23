@@ -1,5 +1,7 @@
 # Hotel-Reservation-Machine-Learning-Project
 
+Data Set : https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset?resource=download
+
 MIT License
 
 Copyright (c) 2023 Erman Konyar
